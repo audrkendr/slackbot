@@ -45,6 +45,6 @@ To run this bot locally, ensure you have [Node.js](https://nodejs.org/) installe
 
 ## Learning Outcomes
 
-This audit demonstrates the power of utilizing modern API tooling like Slack’s App Manifest and the Bolt SDK to reduce boilerplate. It also highlights the critical role of "human-in-the-loop" documentation—ensuring that even when the code is correct, the developer's journey remains intuitive and supported.
+This audit demonstrates the power of utilizing modern API tooling like Slack’s App Manifest and the Bolt SDK to reduce boilerplate. It also highlights the critical role of ground-up documentation ensuring that even when the code is correct, the developer's journey remains intuitive and supported.
 
-[Here](https://medium.com/@audrkendr/case-study-the-15-minute-slack-bot-challenge-c7cdfd2afe19) is a Medium article that explores this audit in further detail.
+To explore this audit in futher detail refer to my technical retrospective [here](https://medium.com/@audrkendr/case-study-the-15-minute-slack-bot-challenge-c7cdfd2afe19).
