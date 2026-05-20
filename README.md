@@ -1,10 +1,10 @@
 # Standup Bot: A DX Case Study
 
-This repository serves as a technical case study and developer experience audit of the Slack Bolt framework. The project implements a simple "Standup Bot" to evaluate the onboarding journey, authentication patterns, and API integration workflows for new developers.
+> This repository serves as a technical case study and functional tool built with Slack Bolt framework. The project implements a simple "Standup Bot" to evaluate the onboarding journey, authentication patterns, and API integration workflows for developers.
 
 ## 🔍 DX Observations & Feedback
 
-During the implementation of this project, I identified several opportunities to enhance the developer onboarding experience. These observations are framed with the goal of minimizing time-to-integration for new users.
+During the implementation of this project, I identified opportunities to enhance the developer onboarding experience. These observations are framed with the goal of minimizing time-to-integration for new users.
 
 | Observation                            | Recommended Enhancement                                                                                                                                                                                                                                                                                                                                                          |
 | :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ This project utilizes a clean separation between infrastructure configuration (A
 - **`manifest.yml`**: Uses Slack's App Manifest feature to define application permissions as code, ensuring reproducible environments.
 - **`src/index.js`**: Implements the Bolt.js framework for event-driven logic, demonstrating best practices in modular API development.
 
-## Setup Instructions
+## Installation and Setup
 
 To run this bot locally, ensure you have [Node.js](https://nodejs.org/) installed, then follow these steps:
 
